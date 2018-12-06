@@ -1,0 +1,8 @@
+{
+  "name": "floatlabel",
+  "version": "1.0.1",
+  "description": "jqueryFloatingLabel",
+  "main": "floatinglabel.js",
+  "author": "Jamal Refaideen",
+  "license": "MIT"
+}
