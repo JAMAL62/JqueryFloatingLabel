@@ -47,8 +47,8 @@
 | div           | yes             |         |
 | className     | yes             |         | 
 
-#### Using NPM
-###  To install using the `npm` package manager run:
+## Using NPM
+####  To install using the `npm` package manager run
 
 ####  `npm install floatlabel`
 
