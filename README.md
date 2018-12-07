@@ -20,14 +20,14 @@
 </body>
 </html>
 ```
-###### Step: 1 EndUser to be add anyClassName to DivTag
+#### Step: 1 EndUser to be add any ClassName to DivTag
 ```html
 <div class="floatingName">
         <input type="text">
         <label>FirstName</label>
  </div>
 ```
-###### Step: 2  Add this jscode to the scriptTag
+#### Step: 2  Add this jscode to the scriptTag
 ```javascript
  <script type = "text/javascript" >
     $(document).ready(function() {
