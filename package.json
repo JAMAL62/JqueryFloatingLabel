@@ -3,6 +3,28 @@
   "version": "1.0.1",
   "description": "jqueryFloatingLabel",
   "main": "floatinglabel.js",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAMAL62/JqueryFloatingLabel.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-floatinglabel",
+    "floatingLabel",
+    "labelUp",
+    "label",
+    "html-css-jquery-floatinglabel",
+    "floatingInput",
+    "horizontalInput",
+    "col-2-md input",
+    "basic-calc",
+    "label-updown-input",
+    "hide-seek-label"
+  ],
   "author": "Jamal Refaideen",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JAMAL62/JqueryFloatingLabel/issues"
+  },
+  "homepage": "https://github.com/JAMAL62/JqueryFloatingLabel"
 }
