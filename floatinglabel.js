@@ -18,11 +18,13 @@ $(document).ready(function () {
                     'left': '0px',
                     'position': 'absolute',
                     'bottom': '4px',
+                    'font-size': '18px',
+                    'color': 'teal',
                     'font-family': 'Tahoma'
                 });
                 input.css({
                     'border': 'none',
-                    'border-bottom': '1px solid teal',
+                    'border-bottom': '2px solid teal',
                     'outline': '0px'
                 })
             }
@@ -34,7 +36,7 @@ $(document).ready(function () {
                 label.css({
                     'position': 'absolute',
                     'color': 'blueviolet',
-                    'font-size': '12px',
+                    'font-size': '14px',
                     'padding-top': '7px',
                     'padding-left': '0px'
                 });
@@ -43,7 +45,7 @@ $(document).ready(function () {
                 }, 250, 'linear');
                 input.css({
 
-                    'border-bottom': '1px solid blueviolet',
+                    'border-bottom': '2px solid blueviolet',
 
                 })
             }
@@ -54,8 +56,8 @@ $(document).ready(function () {
             function applyStyleInBlur() {
                 label.css({
                     'position': 'absolute',
-                    'color': 'inherit',
-                    'font-size': 'inherit'
+                    'color': 'teal',
+                    'font-size': '18px'
                 });
                 if (!input.val()) {
                     label.animate({
@@ -63,18 +65,18 @@ $(document).ready(function () {
                     }, 250, 'linear');
                     input.css({
 
-                        'border-bottom': '1px solid teal',
+                        'border-bottom': '2px solid teal',
 
                     })
                 } else {
                     label.css({
                         'position': 'absolute',
-                        'color': 'inherit',
-                        'font-size': '12px'
+                        'color': 'teal',
+                        'font-size': '14px'
                     });
                     input.css({
 
-                        'border-bottom': '1px solid teal',
+                        'border-bottom': '2px solid teal',
 
                     });
                     label.animate({
