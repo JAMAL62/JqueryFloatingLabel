@@ -1,9 +1,9 @@
 {
   "name": "floatlabel",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "jqueryFloatingLabel",
   "main": "floatinglabel.js",
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/JAMAL62/JqueryFloatingLabel.git"
   },
