@@ -1,7 +1,7 @@
 # JqueryFloatingLabel
-###### It is a javascript user-friendly floating label
+It is a javascript user-friendly floating label
 ## Demo
-###### Here it is a Demo. please [click](https://floatlabel.now.sh/) here;
+Here it is a Demo. please [click](https://floatlabel.now.sh/) here;
 ## Usage       
 ```html
 <html lang="en">
